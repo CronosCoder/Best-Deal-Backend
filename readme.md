@@ -1,6 +1,6 @@
 # Best Deal Backend Api Development with Django REST Framework
 
-### Setup Instructions:
+### ⏪Setup Instructions⏩
 
 	✅ Create a Virtual environment [python -m venv env]
 	✅ Activate the virtual env 
